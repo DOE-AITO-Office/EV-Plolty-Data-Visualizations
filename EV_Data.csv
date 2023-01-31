@@ -1,0 +1,51 @@
+State_Code,State,Per_Capita_Income,EV_Charging_Stations,Unemployment_Rate,Region,Division,Urban_Land_Area,EV_Ratio
+AL,Alabama,49769,317,3.1,South,East South Central,2207,0.143633892
+AK,Alaska,65813,58,5.5,West,Pacific,260,0.223076923
+AZ,Arizona,55487,944,3.9,West,Mountain,2187,0.431641518
+AR,Arkansas,50625,207,3.3,South,West South Central,1097,0.188696445
+CA,California,76614,14458,5.8,West,Pacific,8219,1.75909478
+CO,Colorado,70706,1717,4.3,West,Mountain,1528,1.123691099
+CT,Connecticut,83294,580,5.2,Northeast,New England,1826,0.317634173
+DE,Delaware,59931,153,4.8,South,South Atlantic,407,0.375921376
+FL,Florida,62270,2788,3.5,South,South Atlantic,7403,0.376604079
+GA,Georgia,55786,1525,3.3,South,South Atlantic,4797,0.317907025
+HI,Hawaii,60947,382,4.4,West,Pacific,393,0.972010178
+ID,Idaho,52369,153,3.2,West,Mountain,499,0.306613226
+IL,Illinois,67244,1100,5.1,Midwest,East North Central,3946,0.278763305
+IN,Indiana,56497,393,2.7,Midwest,East North Central,2525,0.155643564
+IA,Iowa,57163,305,3.9,Midwest,West North Central,953,0.320041973
+KS,Kansas,58924,482,2.8,Midwest,West North Central,973,0.495375128
+KY,Kentucky,51266,250,4.6,South,East South Central,1411,0.177179305
+LA,Louisiana,54217,177,4.5,South,West South Central,1968,0.089939024
+ME,Maine,58484,405,4.2,Northeast,New England,360,1.125
+MD,Maryland,69817,1309,5.4,South,South Atlantic,2005,0.65286783
+MA,Massachusetts,83653,2343,4.8,Northeast,New England,2987,0.784399063
+MI,Michigan,56494,1121,5.2,Midwest,East North Central,3623,0.309412089
+MN,Minnesota,66280,587,3.1,Midwest,West North Central,1705,0.344281525
+MS,Mississippi,45881,112,4.7,South,East South Central,1106,0.101265823
+MO,Missouri,55325,1017,3.9,Midwest,West North Central,2054,0.495131451
+MT,Montana,56949,98,2.9,West,Mountain,297,0.32996633
+NE,Nebraska,61205,206,2.4,Midwest,West North Central,524,0.393129771
+NV,Nevada,60213,456,5.3,West,Mountain,767,0.59452412
+NH,New Hampshire,73200,199,3,Northeast,New England,644,0.309006211
+NJ,New Jersey,77016,879,5.1,Northeast,Middle Atlantic,2920,0.301027397
+NM,New Mexico,50311,200,6,West,Mountain,827,0.241837969
+NY,New York,76837,3283,5.4,Northeast,Middle Atlantic,4092,0.802297165
+NC,North Carolina,56173,1140,4.2,South,South Atlantic,4609,0.247342157
+ND,North Dakota,64524,77,3.1,Midwest,West North Central,184,0.418478261
+OH,Ohio,56879,1206,4.5,Midwest,East North Central,4420,0.272850679
+OK,Oklahoma,53870,332,2.8,South,West South Central,1307,0.254016832
+OR,Oregon,61596,947,4.2,West,Pacific,1107,0.855465221
+PA,Pennsylvania,64279,1293,5.5,Northeast,Middle Atlantic,4705,0.274814028
+RI,Rhode Island,64376,291,4.7,Northeast,New England,401,0.725685786
+SC,South Carolina,52467,406,3.6,South,South Atlantic,2382,0.170445004
+SD,South Dakota,64462,66,2.9,Midwest,West North Central,226,0.292035398
+TN,Tennessee,56560,662,3.6,South,East South Central,2905,0.22788296
+TX,Texas,59865,2361,4.9,South,West South Central,8746,0.269951978
+UT,Utah,56019,768,2.3,West,Mountain,915,0.839344262
+VT,Vermont,61882,344,3.1,Northeast,New England,156,2.205128205
+VA,Virginia,66305,1190,3.3,South,South Atlantic,2665,0.446529081
+WA,Washington,73775,1713,4.5,West,Pacific,2375,0.721263158
+WV,West Virginia,48488,131,4.3,South,South Atlantic,640,0.2046875
+WI,Wisconsin,59626,462,3.1,Midwest,East North Central,1879,0.245875466
+WY,Wyoming,69666,78,4,West,Mountain,195,0.4
